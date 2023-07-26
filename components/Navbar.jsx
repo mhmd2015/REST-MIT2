@@ -51,6 +51,8 @@ const Navbar = () => {
 
   return (
     <>
+      <div>MHMD</div>
+      <div>{process.env.HOTS_WEB_URI}</div>
       <nav className={styles.navbar}>
         <Link href="/">
           <div className={styles.navbar_branding}>
@@ -227,7 +229,7 @@ const Navbar = () => {
       ) : (
         <></>
       )}
-      <div>{process.env.HOTS_WEB_URI}</div>
+      
     </>
   );
 };
