@@ -24,7 +24,7 @@
 
 .form_restaurant_signin_image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("../public/restaurantSignIn.jpg");
+    url("../public/userSignUpImage.jpg");
   height: 100%;
   background-position: bottom;
   background-repeat: no-repeat;
@@ -34,7 +34,7 @@
 
 .form_restaurant_signup_image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("../public/restaurantSignUpImage.jpg");
+    url("../public/userSignUpImage.jpg");
   height: 100%;
   background-position: bottom;
   background-repeat: no-repeat;
