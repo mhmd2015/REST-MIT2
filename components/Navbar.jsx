@@ -227,7 +227,7 @@ const Navbar = () => {
       ) : (
         <></>
       )}
-      <div>{process.env.WEB_HOT_URI}</div>
+      <div>{process.env.HOTS_WEB_URI}</div>
     </>
   );
 };
