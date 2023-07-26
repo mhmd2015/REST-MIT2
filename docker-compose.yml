@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  mongomit4:
+    image: mongo
+    container_name: mongomit4
+    restart: unless-stopped
+    
+    ports:
+      - "27018:27017"
+

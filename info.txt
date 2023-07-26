@@ -1,0 +1,72 @@
+https://github.com/anthgrim/OrderQue
+
+
+*** Recommended for the final Project
+
+yarn
+
+nvm use 14.18.1
+
+npm run dev
+
+
+[
+  {
+    "name": "DB_URI",
+    "value": "mongodb+srv://mhmdmcsd:Passw0rd1@cluster0.tuflupv.mongodb.net/?retryWrites=true&w=majority",
+    "slotSetting": false
+  },
+  {
+    "name": "HOST_WEB_URI",
+    "value": "https://rest-mit2.azurewebsites.net",
+    "slotSetting": false
+  },
+  {
+    "name": "ACCESS_TOKEN_SECRET",
+    "value": "12345",
+    "slotSetting": false
+  },
+  {
+    "name": "REFRESH_TOKEN_SECRET",
+    "value": "12345",
+    "slotSetting": false
+  },
+  {
+     "name": "STRIPE_PUBLIC_KEY",
+    "value": "strapi",
+    "slotSetting": false
+  },
+  {
+     "name": "STRIPE_SECRET_KEY",
+    "value": "tangoman",
+    "slotSetting": false
+  },
+  {
+     "name": "STRIPE",
+    "value": "sk_test_4eC39HqLyjWDarjtT1zdp7dc",
+    "slotSetting": false
+  },
+  {
+
+     "name": "S3_UPLOAD_KEY",
+    "value": "AKIAVRO275472CWFV5JU",
+    "slotSetting": false
+  },
+  {
+     "name": "S3_UPLOAD_SECRET",
+    "value": "8Y1kbMhm7zoLVJ10m2ZAJiivahJduC9a1fMJP/nj",
+    "slotSetting": false
+  },
+  {
+     "name": "S3_UPLOAD_BUCKET",
+    "value": "restaurant-images-hadeel",
+    "slotSetting": false
+  },
+  {
+     "name": "S3_UPLOAD_REGION",
+    "value": "us-east-2",
+    "slotSetting": false
+  }
+
+
+]
