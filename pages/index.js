@@ -64,7 +64,7 @@ export default function Home({ restaurants }) {
 }
 
 export async function getServerSideProps() {
-
+  console.log(process.env.HOST_WEB_URI)
   const api =   process.env.HOST_WEB_URI;
   
   
