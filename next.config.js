@@ -6,9 +6,7 @@ const nextConfig = {
 
     domains: ["restaurant-images-hadeel.s3.us-east-2.amazonaws.com"],
   },
-  //output: 'export',
-  useFileSystemPublicRoutes: false,
-  output:"standalone"
+  
 };
 
 module.exports = nextConfig;
